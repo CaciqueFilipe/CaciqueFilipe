@@ -17,6 +17,7 @@
     <img align="center" alt="Filipe-Android" height="30" width="30" src="https://img.icons8.com/color/344/android-os.png">
   </div>
   <div align="center">
+    <img align="center" alt="Filipe-Magento" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg">
     <img align="center" alt="Filipe-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Filipe-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Filipe-Php" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
