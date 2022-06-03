@@ -17,10 +17,11 @@
     <img align="center" alt="Filipe-Android" height="30" width="30" src="https://img.icons8.com/color/344/android-os.png">
   </div>
   <div align="center">
-    <img align="center" alt="Filipe-Magento" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg">
     <img align="center" alt="Filipe-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Filipe-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+     <img align="center" alt="Filipe-Magento" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg">
     <img align="center" alt="Filipe-Php" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+     <img align="center" alt="Filipe-Laravel" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png">
     <img align="center" alt="Filipe-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Filipe-Ts" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Filipe-React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
