@@ -94,7 +94,7 @@
             </td>
             <!-- Back -->
             <td>
-                <p style="vertical-align: bottom"><img align="center" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" alt="Filipe-Laravel"> Laravel</p>
+                <p style="vertical-align: bottom"><img align="center" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" alt="Laravel"> Laravel</p>
             </td>
             <!-- Databases -->
             <td>
@@ -242,7 +242,7 @@
   </div>
   <div align="center">
     <img align="center" height="25px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Filipe-Php">
-    <img align="center" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" alt="Filipe-Laravel">
+    <img align="center" height="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/985px-Laravel.svg.png" alt="Laravel">
     <img align="center" height="25px" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="Filipe-Node">
     <img align="center" height="25px" src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=000000" alt="Filipe-Express">
     <img align="center" height="25px" src="https://img.icons8.com/?size=100&id=b9csPDvC8JBF&format=png&color=000000" alt="Filipe-SQL">
